@@ -28,3 +28,7 @@ https://github.com/jafingerhut/p4-guide/blob/master/bin/README-install-troublesh
 ```
 https://github.com/eryko2002/Router_with_filtering_capability.git
 ```
+# How to run:
+```
+make clean; make run
+```
